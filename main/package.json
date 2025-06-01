@@ -1,0 +1,22 @@
+{
+  "name": "my-imba-app",
+  "type": "module",
+  "scripts": {
+    "dev": "imba serve",
+    "build": "imba build",
+    "preview": "imba preview"
+  },
+  "devDependencies": {
+    "imba": "^2.0.0-alpha.245",
+    "vite": "^6.3.3"
+  },
+  "dependencies": {
+    "algebrite": "^1.4.0",
+    "chart.js": "^4.4.9",
+    "chess.js": "^1.2.0",
+    "expr-eval": "^2.0.2",
+    "howler": "^2.2.4",
+    "js-chess-engine": "^1.0.2",
+    "nanoid": "^5.1.5"
+  }
+}
